@@ -58,3 +58,12 @@
 <a href="https://www.youtube.com/@Trendingberightonline"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtu.be/oXQjl39Bl7M" /><br>
 
 ----------------------------------------
+
+<h2 align="center">  NOTICE </h2>
+---d
+- *Hacker-MD is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *In that case, I'm not responsible for banning your account.*
+- *Use Hacker-MD at your own risk by keeping this warning in mind.*
+ 
+
+- Star ⭐ repo if you like this bot.
