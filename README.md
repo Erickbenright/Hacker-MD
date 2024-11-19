@@ -6,6 +6,8 @@
 <p align="center">
 <a href="https://github.com/Erickbenright"><img title="Author" src="https://files.catbox.moe/ewpetl.jpeg?style=for-the-badge&logo=github"></a>
 
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝙆𝙄𝙉𝙂╺+HACKER+-+𝗕𝗢T.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+𝐌𝐑+𝐁ENRIGHT+TECHINFO;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+𝗕ENRIGHT.𝗧𝗘𝗖𝗛;𝐌𝐑:+☬𝔻𝔸ℝ𝕂༒BENRIGHT࿐;💕𝐩𝐨𝐰𝐞𝐫𝐟𝐮𝐥;😁𝐰𝐚+𝐛𝐨𝐭🌹)](https://git.io/typing-svg)
+
 
   <p align="center">
 <a href="https://github.com/Erickbenright/followers"><img title="Followers" src="https://img.shields.io/github/followers/Erickbenright?color=blue&style=flat-square"></a>
