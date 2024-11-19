@@ -16,5 +16,5 @@ COPY . .
 
 EXPOSE 3000
 
-CMD ["node", "queen.js"]
+CMD ["node", "hacker.js"]
 
