@@ -32,3 +32,48 @@
 
 
 -----------------------------------------
+
+
+## Deployment Methods
+---
+
+1. ***Get [`SESSION ID`](https://suhail-md-vtsf.onrender.com/)  by Pair Code Or scanning QR code. `Whatapp>Three dots>Linked Devices`***
+
+2.  ***`Star ⭐` repository & Click [`FORK`](https://github.com/Erickbenright/Hacker-MD/fork)***
+   
+3.  #### DEPLOY IN HEROKU 
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=new)
+
+
+-----------------------------------------
+
+
+
+
+4. #### DEPLOY TO RENDER
+
+<a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RENDER-h?color=maroon&style=for-the-badge&logo=render'/></a></p>
+
+
+------------------------------------------
+
+
+
+
+5.  #### DEPLOY IN REPLIT
+
+   <a href='https://repl.it/github/GlobalTechInfo/SUHAIL-XMD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
+
+
+
+-------------------------------------------
+
+
+
+### TUTORIAL FOR DEPLOYMENT
+<a href="https://youtu.be/oXQjl39Bl7M"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/@Trendingberightonline" /><br>
+
+
+
+--------------------------------------------
