@@ -15,3 +15,10 @@
    
 <p align="center">
 
+  <a aria-label="Join our chats" href="https://wa.me/qr/Q7I6PS54LIIUC1" target="_blank">
+    <img alt="telegram" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+ 
+
+---
+
