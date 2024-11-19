@@ -1,4 +1,8 @@
 # Hacker MD
+---------------------------------------
+<p align="center">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=HACKER+MD+WHATSAPP+BOT+V2" alt="">
+</p>
 <p align="center">
 <a href="https://github.com/Erickbenright"><img title="Author" src="https://files.catbox.moe/ewpetl.jpeg?style=for-the-badge&logo=github"></a>
 
