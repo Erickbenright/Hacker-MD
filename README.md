@@ -82,3 +82,37 @@
 
 
 --------------------------------------------
+
+**OWNER**
+<p align="centre">
+  <a href="https://wa.me/qr/Q7I6PS54LIIUC1">
+    <img align="left" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
+
+
+**𝗖𝗵𝗮𝗻𝗻𝗲𝗹**
+<p align="centre">
+  <a href="https://whatsapp.com/channel/0029VajWBCv3QxS8gM0I260Y">
+    <img align="left" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
+
+   ###
+
+CONTACT DEVELOPER ON WHATSAPP 
+
+<a href="https://wa.me/qr/Q7I6PS54LIIUC1" target="_blank">
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/Bemright tech contact -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
+
+  
+ 
+<a href="https://whatsapp.com/channel/0029VajWBCv3QxS8gM0I260Y" target="_blank">
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ BENRIGHT_TECH  CHANNEL -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+ 
+
+## License
+
+The WhatsApp Bot HACKER-MD is released under the [MIT License](https://opensource.org/licenses/MIT).
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+🌟 THANK YOU FOR CHOOSING HACKER-MD 🌟
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
