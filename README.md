@@ -1,5 +1,5 @@
 # Hacker MD
----------------------------------------
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=HACKER+MD+WHATSAPP+BOT+V2" alt="">
 </p>
@@ -29,30 +29,27 @@
   </a>
  
 
----------------------------------------
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center"> Meet Hacker-MD,😍😍 Your All-in-One WhatsApp Excitement Buddy!😯😯 Enjoy a thrilling messaging experience like never before. Hacker-MD whatsapp bot brings a world of excitement and joy to your chats.🤖🤖 Express yourself with unique flair and add a touch of excitement to every conversation. 🤖✨🤖 </p
 
   <a href="https://github.com/Erickbenright/Hacker-MD/fork"><img title="HACKER-MD" src="https://img.shields.io/badge/FORK-Hacker MD-h?color=blue&style=for-the-badge&logo=stackshare"></a>
-
-
-
------------------------------------------
+  
+  
+  
+  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
 ## Deployment Methods
 ---
-
-1. ***Get [`SESSION ID`](https://suhail-md-vtsf.onrender.com/)  by Pair Code Or scanning QR code. `Whatapp>Three dots>Linked Devices`***
-
-2.  ***`Star ⭐` repository & Click [`FORK`](https://github.com/Erickbenright/Hacker-MD/fork)***
+1. ***Get [`SESSIN ID`](https://suhail-md-vtsf.onrender.com/)  by Pair Code Or scanning QR code. `Whatapp>Three dots>Linked Devices`**
+2.  ***`Star ⭐` repository & click [`FORK`](https://github.com/Erickbenright/Hacker-MD/fork)***
    
 3.  #### DEPLOY IN HEROKU 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=new)
 
 
------------------------------------------
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
 
@@ -61,9 +58,7 @@
 <a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RENDER-h?color=maroon&style=for-the-badge&logo=render'/></a></p>
 
 
-------------------------------------------
-
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
 5.  #### DEPLOY IN REPLIT
@@ -72,7 +67,7 @@
 
 
 
--------------------------------------------
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
 
@@ -81,7 +76,7 @@
 
 
 
---------------------------------------------
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 [![Davide's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=davevad93&theme=github-compact&bg_color=000000&line=009A22&point=98FB98&color=00FF2B&title_color=00FF2B&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -118,3 +113,15 @@ The WhatsApp Bot HACKER-MD is released under the [MIT License](https://opensourc
 🌟 THANK YOU FOR CHOOSING HACKER-MD 🌟
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
+
+## DEVELOPERS :
+
+- [**BENRIGHT TECH**](https://github.com/Erickbenright)
+- [**Developers YT**](https://youtube.com/@anthonyboniphace?si=86VHGM7BZ4Q_OQYO)
+- [**ERICKBENRIGHT TECH**](https://github.com/Erickbenright)
+ <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+ 
+★THANKS BE TO GOG 🙏. ©
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+     
