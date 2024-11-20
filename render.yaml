@@ -1,11 +1,11 @@
 services:
   - type: web
     plan: free
-    name: queen-anju-md
+    name: HACKER-MD
     runtime: docker
     region: Frankfurt
     branch: V-2.00
-    repo: https://github.com/Mrrashmika/QUEEN_ANJU_MD
+    repo: https://github.com/Mrrashmika/HACKER-MD
     #buildCommand: |
     #  apt-get update && \
     #  apt-get install -y ffmpeg && \
